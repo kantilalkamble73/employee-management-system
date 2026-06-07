@@ -1,4 +1,5 @@
 # Employee Management System (Java + JDBC + MySQL)
+
 This project demonstrates basic CRUD operations using Java and database connectivity.
 
 ## Features
