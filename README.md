@@ -7,6 +7,7 @@ This project demonstrates basic CRUD operations using Java and database connecti
 - Update Employee
 - Delete Employee
 - View Employee List
+- Search Employee By Id
 
 ## Technologies Used
 - Core Java
